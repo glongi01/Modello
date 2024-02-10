@@ -1,0 +1,93 @@
+/* 
+================================
+ Container Styles for DotNetNuke
+================================
+.
+
+
+/*-------------------------------------------------------------------------------*/
+.actions{ width:10px;}
+.clear									 { clear:both;}
+.left 									 { float:left;}
+.right 									 { float:right;}
+.c_footer_1								 { padding-right:10px; text-align:right;}
+.dnntitle 								 { padding-left:10px;}
+.c_contentpane 							 { text-align:left; padding:2px 5px 0px 5px;}
+.ModuleTitle_MenuContainer				 { width:100px!important;}
+
+.Container-20049-1 						 { margin-bottom:5px; }
+.Container-20049-1 .dnntitle			 { padding:0px 0px 15px 0px;}
+.Container-20049-1 .contentmain1		 {}
+.Container-20049-1 .contentpane			 { padding:5px 0px 3px 0px; vertical-align:top; text-align:left; clear:both;}
+
+.Container-20049-2 						 { margin-bottom:5px; }
+.Container-20049-2 .dnntitle			 { padding:0px 0px 13px 0px; border-bottom:1px solid #d5d4d4; text-align:center;}
+.Container-20049-2 .contentmain1		 { margin-left:15%; margin-right:15%;}
+.Container-20049-2 .contentpane			 { padding:20px 5px 3px 5px; vertical-align:top; text-align:center; clear:both; }
+
+.Container-20049-3 						 { margin-bottom:5px; }
+.Container-20049-3 .dnntitle			 { padding:0px 0px 15px 0px;}
+.Container-20049-3 .contentmain1		 {}
+.Container-20049-3 .contentpane			 { padding:5px 0px 3px 0px; vertical-align:top; text-align:left; clear:both;}
+
+.Container-20049-4 						 { margin-bottom:5px; }
+.Container-20049-4 .dnntitle			 { padding:9px 0px 10px 19px;}
+.Container-20049-4 .contentmain1		 {}
+.Container-20049-4 .contentpane			 { padding:15px 0px 3px 0px; vertical-align:top; text-align:left; clear:both;}
+
+.Container-20049-5 						 { margin-bottom:5px; color:#666666;}
+.Container-20049-5 .dnntitle			 { padding:0px 0px 5px 0px;}
+.Container-20049-5 .contentmain1		 { background:#eeeeee; padding:20px 25px 15px 28px;}
+.Container-20049-5 .contentpane			 { padding:10px 0px 3px 0px; vertical-align:top; text-align:left; clear:both;}
+.Container-20049-5 .Normal				 { color:#666666;}
+
+.Container-20049-6 						 { margin-bottom:5px; }
+.Container-20049-6 .dnntitle			 { padding:9px 0px 10px 19px; background:#eeeeee;}
+.Container-20049-6 .contentmain1		 {}
+.Container-20049-6 .contentpane			 { padding:15px 0px 3px 0px; vertical-align:top; text-align:left; clear:both;}
+
+.Container-20049-H1 					 { margin-bottom:5px; }
+.Container-20049-H1 .contentmain1		 { }
+.Container-20049-H1 .contentpane		 { padding:0px 0px 3px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-20049-H2 					 { margin-bottom:5px; }
+.Container-20049-H2 .contentmain1		 { }
+.Container-20049-H2 .contentpane		 { padding:0px 0px 3px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-20049-H3 					 { margin-bottom:5px; }
+.Container-20049-H3 .contentmain1		 { }
+.Container-20049-H3 .contentpane		 { padding:0px 0px 3px 0px; text-align:left; vertical-align:top; clear:both; }
+
+
+
+.White {}
+.White .contentpane 					 { text-align:left; padding:0px;}
+.White .cbot							 { float:right;}
+
+
+
+.Container-20049-1 .title1{font-size:18px; font-weight:normal; color:#222222; line-height:1.3;}
+
+.Container-20049-2 .title2{font-size:20px; font-weight:300; color:#222222; line-height:1.3;}
+
+.Container-20049-3 .title3{font-size:20px; font-weight:300; color:#222222; line-height:1.3;}
+
+.Container-20049-4 .title4{font-size:18px; font-weight:normal; color:#fff; line-height:1.3;}
+
+.Container-20049-5 .title5{font-size:18px; font-weight:normal; color:#222222; line-height:1.3;}
+
+.Container-20049-6 .title6{font-size:18px; font-weight:normal; color:#222222; line-height:1.3;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
