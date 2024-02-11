@@ -444,7 +444,7 @@ a.breadcrumb:hover{
 	position:relative;
 }
 header{
-	background-image:url(images/header_bg.png);
+	background-image:url(header_bg.png);
 	background-repeat:repeat-x;
 	background-position:left bottom;
 	position:absolute;
@@ -454,7 +454,7 @@ header{
 	width:100%;
 }
 .header_shadow{
-	background:url(images/header_shadow.png) repeat-x;
+	background:url(header_shadow.png) repeat-x;
 	position:absolute;
 	width:100%;
 	left:0px;
@@ -465,7 +465,7 @@ header{
 #dnn_topp{
 	position:relative;
 	width:100%;
-	background-image:url(images/topp_bg.png);
+	background-image:url(topp_bg.png);
 	box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.1);
 	background-repeat:repeat-x;
 	background-position:0px 0px;
@@ -554,13 +554,13 @@ header{
 	color:#fff;
 }
 .midp{
-	background-image:url(images/midpa_bg.png);
+	background-image:url(midpa_bg.png);
 	background-repeat:repeat-y;
 	background-position:-77px top;
 	margin-bottom:15px;
 }
 .midp_rbg{
-	background-image:url(images/midpc_bg.png);
+	background-image:url(midpc_bg.png);
 	background-repeat:repeat-y;
 	background-position:626px top;
 }
@@ -588,7 +588,7 @@ header{
 }
 #dnn_bread{
 	position:relative;
-	background-image:url(images/bread_bg.jpg);
+	background-image:url(bread_bg.jpg);
 	background-repeat:no-repeat;
 	background-position:center bottom;
 	background-size:cover;
@@ -634,7 +634,7 @@ header{
 
 /* ********** botoutp ************** */	
 #dnn_botbgp{
-	background:url(images/botoutp_bg.jpg) no-repeat center bottom fixed;
+	background:url(botoutp_bg.jpg) no-repeat center bottom fixed;
 	background-size:cover;
 }
 .botbgp_bgps{
@@ -694,7 +694,7 @@ header{
 	padding-top:27px;
 }
 .FooterPaneC{
-	background-image:url(images/botbg_map.png);
+	background-image:url(botbg_map.png);
 	background-repeat:no-repeat;
 	background-position:center 60%;
 	min-height:186px;
@@ -735,7 +735,7 @@ footer .Normal{
 	margin:0px 0px 0px 0px;
 }
 #to_top .to_topimg{
-	background-image:url(images/backtotop.png);
+	background-image:url(backtotop.png);
 	background-repeat:no-repeat;
 	background-position:0px 0px;
 	height:7px;
@@ -798,7 +798,7 @@ footer .Normal{
 .top_menu > div > ul > li > a.menu_hover:after,
 .top_menu > div > ul > li.current > a:after{
 	content:"";
-	background:url(images/topmenu_arrow.png) no-repeat;
+	background:url(topmenu_arrow.png) no-repeat;
 	position:absolute;
 	width:14px;
 	height:7px;
@@ -936,7 +936,7 @@ footer .Normal{
 .Mega_menu > div > ul > li.dgn-root-hover > a:after,
 .Mega_menu > div > ul > li.current > a:after{
 	content:"";
-	background:url(images/topmenu_arrow.png) no-repeat;
+	background:url(topmenu_arrow.png) no-repeat;
 	position:absolute;
 	width:14px;
 	height:7px;
@@ -1519,7 +1519,7 @@ a.abtn.btn_white{
 .Contact_list_footer li span {
 	width:29px;
 	height:29px;
-	background:url(images/Contact_icon_footer.png) 0px 0px #565656;
+	background:url(Contact_icon_footer.png) 0px 0px #565656;
 	display:inline;
 	display:inline-block;
 	margin-right:20px;
@@ -1878,7 +1878,7 @@ a.link_more_square:hover {
 .Contact_list li span {
 	width:29px;
 	height:29px;
-	background:url(images/Contact_icon.png) 0px 0px #CCC;
+	background:url(Contact_icon.png) 0px 0px #CCC;
 	display:inline;
 	display:inline-block;
 	margin-right:20px;
@@ -3618,7 +3618,7 @@ a.abtn:after,
 		display:block;
 	}
 	.multi_menu ul li .menu_arrow {
-		background-image:url(images/dir_bg.png);
+		background-image:url(dir_bg.png);
 		background-repeat:no-repeat;
 		background-position:right 0px;
 		display:block;
