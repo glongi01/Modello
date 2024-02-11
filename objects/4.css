@@ -164,7 +164,7 @@ a.search:visited{
 	width:36px; 
 	height:36px;
 	line-height:30px;
-	background:url(images/search_btn.png) no-repeat center center;
+	background:url(search_btn.png) no-repeat center center;
 	outline:none;
 }
 #dnn_dnnSEARCH_txtSearch,
